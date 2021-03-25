@@ -1,6 +1,5 @@
 - 🔭 I'm currently working on a social playlist app for Spotify 🎵
 - 🌱 I’m currently learning Typescript
--
 
 
 <!--
