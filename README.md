@@ -1,5 +1,5 @@
 - 🔭 I'm currently developing performant full stack applications
-- 🌱 I’m currently learning how to make simple high quality react components
+- 🌱 I’m currently learning how to make 🦜 LangChain Powered GPT Retrevial Apps
 
 
 <!--
